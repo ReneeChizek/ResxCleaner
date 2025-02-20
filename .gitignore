@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ResxCleaner/CopilotIndices/17.12.68.61481
+/ResxCleaner/.vs/ResxCleaner
+/ResxCleaner/ResxCleaner/obj/Debug/net8.0-windows
+/ResxCleaner/ResxCleaner/obj/Release/net8.0-windows
